@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_log_in_and_reg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/log_in_and_reg_bg"
+    tools:context="com.siu.jay.e_wallet.LogInAndReg">
+
+    <Button
+        android:id="@+id/signInButton"
+        android:layout_marginTop="173dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/sign_in_button_selector"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:paddingTop="2dp"
+        android:text="Sign In" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rightOR"
+        android:textColor="#FFFFFF"
+        android:text="              "
+        android:layout_alignRight="@+id/regButton"
+        android:layout_alignEnd="@+id/regButton"
+        android:layout_alignBottom="@+id/leftOR" />
+
+    <TextView
+        android:text="OR"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/OR"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/leftOR"
+        android:textColor="#FFFFFF"
+        android:text="              "
+        android:layout_alignBaseline="@+id/OR"
+        android:layout_alignBottom="@+id/OR"
+        android:layout_alignLeft="@+id/signInButton"
+        android:layout_alignStart="@+id/signInButton" />
+
+    <TextView
+        android:text="Welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:id="@+id/welcome"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    <Button
+        android:text="Register"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="11dp"
+        android:id="@+id/regButton"
+        android:background="@drawable/sign_in_button_selector"
+        android:textSize="20dp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:paddingTop="2dp"
+        android:layout_below="@+id/rightOR"
+        android:layout_alignLeft="@+id/leftOR"
+        android:layout_alignStart="@+id/leftOR" />
+
+</RelativeLayout>

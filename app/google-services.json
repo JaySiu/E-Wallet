@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "550472881076",
+    "firebase_url": "https://comp4521v2.firebaseio.com",
+    "project_id": "comp4521v2",
+    "storage_bucket": "comp4521v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550472881076:android:926addb3cf0abab8",
+        "android_client_info": {
+          "package_name": "com.siu.jay.e_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550472881076-s4kfm4llnqc7ei0ld9j9qjbk6anjv3bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siu.jay.e_wallet",
+            "certificate_hash": "47160314f65228daa0b4407cd772f2559a5d0029"
+          }
+        },
+        {
+          "client_id": "550472881076-dhb7dmo8ngt7c5sqs6nq09e7hfs4r7ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbOIfPlI-oJDONkmB3krMWUZjZ3t4LV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550472881076-dhb7dmo8ngt7c5sqs6nq09e7hfs4r7ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

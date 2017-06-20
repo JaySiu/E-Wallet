@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_pay_and_receive"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/pay_and_receive_bg"
+    tools:context="com.siu.jay.e_wallet.payAndReceive">
+
+
+    <ImageView
+        android:layout_height="300sp"
+        app:srcCompat="@android:color/transparent"
+        android:id="@+id/qrCode"
+        android:layout_width="300sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:background="@drawable/backward_button_selector"
+        android:id="@+id/payReceiveBackwardButton"
+        android:layout_height="25dp"
+        android:layout_width="12dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Enter The Amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:id="@+id/enterAmountText"
+        android:layout_marginTop="29dp"
+        android:layout_below="@+id/payReceiveBackwardButton"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editAmount"
+        android:background="@drawable/edit_text_underline"
+        android:cursorVisible="false"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:layout_height="25dp"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_above="@+id/qrCode"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
