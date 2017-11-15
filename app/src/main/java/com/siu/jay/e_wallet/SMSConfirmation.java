@@ -88,7 +88,7 @@ public class SMSConfirmation extends AppCompatActivity implements View.OnClickLi
         if(isSmsSent()) {
             AlertDialog.Builder SMSReceiveBuilder = new AlertDialog.Builder(context);
             SMSReceiveBuilder
-                    .setMessage("SMS verification code has been sent to you. Please enter the code")
+                    .setMessage("SMS verification code has been sent to you. Please enter the code.")
                     .setTitle("SMS Confirmation")
                     .setCancelable(true)
                     .setNeutralButton("OK", new DialogInterface.OnClickListener() {
@@ -234,7 +234,7 @@ public class SMSConfirmation extends AppCompatActivity implements View.OnClickLi
             Random rand = new Random();
             int ran = rand.nextInt(10000);
             code = ran + "";
-            //Log.i("The SMS is", code);
+            Log.i("The SMS is", code);
             SmsManager SMSVerification = SmsManager.getDefault();
             SMSVerification.sendTextMessage(phoneReceived, null, code, null, null);
         }
@@ -242,7 +242,7 @@ public class SMSConfirmation extends AppCompatActivity implements View.OnClickLi
             Random rand = new Random();
             int ran = rand.nextInt(10000);
             code = ran + "";
-            //Log.i("The SMS is", code);
+            Log.i("The SMS is", code);
             SmsManager SMSVerification = SmsManager.getDefault();
             SMSVerification.sendTextMessage(phoneReceived, null, code , null, null);
         }

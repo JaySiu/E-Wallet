@@ -3,102 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.6_a63e644a98b88f4fd9b0b90f9f429b2b946d141e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_b6a6fd047fcf7c9d3b69287a3bdcd47daedd54fa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_a03d7b0c200783a35a91f6e04f6941092c696adf.jar" />
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_97ce3e8e3f9f985a2bf9713623ee90204b4dc59f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_b2590ad1c17c6399ee3840aed24a24918df36b95.jar" />
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.6_48ddb5ac9661ceb0265d137104d77400ad3b57d8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_87bb12ce2645099eeaae693f5b63e47d3881d304.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_90e47ae389d53bc86f965d4950a09f157bc212a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.6_7cde8f8fd84a71f2ffd4cf35e8bef6929ddb1915.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_11b724289b8c2ae9869d3adc63e903854351bdb3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.6_e564e3cb88eee84b4ac84c7c825f27aaba098b66.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_b163767a1b6caad439a6d8758b47a7a19f58fd94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_842eab587c2f4d784d3ccc956f22bded093948fb.jar" />
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_a98dd0e85ab38acaca622e6aa00907987a57c323.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,124 +35,196 @@
         optimize="true"
         revision="25.0.2"
         sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/core-3.2.1_8fc0ab274b063b5d95da8ae6c153fe402ce0d76e.jar" />
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/core-3.2.1_8fc0ab274b063b5d95da8ae6c153fe402ce0d76e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.6_e30158ef1b7c8b67650cf5dad4882c5a02890270.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.6_622e2d64b27b042b5c8b611f132330dcd7d0015d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_136fd5924a5bc38a08eb9cd146a9d9277eecaceb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.6_2111074e0d19da62891a92f6dba7ff4807c3b634.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_6e9303498b7897817f3fd6c6adc24c758170d206.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_b84363855040258b502f0cb594953e38646e78b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.6_862f754c7c488ef134815e66161bc284efd4d88f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_9065faba477012ac3b522cd61c7440290b7abaeb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.6_ddb23447ff2694b6d00badea7177b276cc19e2aa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.6/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.2.6_f6210c30d78020c3387de7370bc31aad3fa98c8c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_08a24a7b9d069dd6067b4cdf5cb7b15d73fba3ba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_8edffe5a952122a809d86a3d7c7331ee9b736d33.jar" />
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_d4ef191269869334b4a01621d920975f5739e091.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_f16e913ea82422f9c33cfdc186e26c699505b29c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.6_80ea167be7602eee763f19aa70aab4632bfadc4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.2.6_fecf4b66001f08f1105160e6355ba5b4fcbaa060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_ce654f3d6cdf18fae4953656174c30daf56f83e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_884858df10bc7c139d5296d308ce0df2b23fd67d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.2.6_c75b8ba612686f42f97e044889551fb3b6b99b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_dbb17f77d7b3aa6e7fec2623c6853b3131dbecc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.2.6_0b1174883f23e451183725796a1677697b0b6dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.2.6_f04a9df5d0bd7ba9f743f4e16e39dfb32a1a34ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
-        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-Wallet/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.6_b4167003f37ca0025a4688810f2e4a46d111227a.jar" />
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.6_f95200811b70932024076569804c4a8306921b5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.2.6_abc38bec2f40abed94b4853338ff4c37b348a55d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_265540536fe27ba5d9ad7b3aae1b5fba7126ac15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.2.6_f5adcce5aad6ae9af6f2778ead58bb9b31df9d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_c9a6fd993091af1f213f9be397dc0e5ba3c6a27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_90e47ae389d53bc86f965d4950a09f157bc212a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_6e090edec4460679679445446527d3b24af9e58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_7faf3de24e9b05ae9e7fd1ec3d3c0b2166480a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.6_43974de9cac199dc8faad575d0a5aeff7945849e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_a748c317a64f6dd40a73fb9d85e8ee1d9fca6037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Jay/Documents/Comp/4521/Project/E-wallet/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_48d1fec74ac75feab969b3fb04efb743e2ed7017.jar" />
     </item>
 
 </items>
